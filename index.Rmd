@@ -1,0 +1,11 @@
+---
+title: "How to Organize an R Unconference"
+author: "Angela Li, Sam Tyner"
+documentclass: "book"
+site: bookdown::bookdown_site
+---
+
+# Preface {-}
+
+Start writing your book here. If you are in RStudio,
+Click the Build button to build the book.
