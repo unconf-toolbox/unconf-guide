@@ -7,5 +7,17 @@ site: bookdown::bookdown_site
 
 # Preface {-}
 
-Start writing your book here. If you are in RStudio,
-Click the Build button to build the book.
+<!--Hi, Sam here. Just writing an outline for now. --> 
+
+1. What is an unconf and why should you organize one? 
+2. What **physical** infrastructure do you need to host an unconference?
+3. What **online** infrastructure do you need to host an unconference? 
+4. `r emo::ji("music")` Money money money money. MON-AY `r emo::ji("music")`
+5. Applications: what questions to ask, how to evalues them, and what tools to use
+6. Taking care of people: pre-unconf chats, food, logding, travel, space accomodations
+7. Day One: intros/icebreakers, projects, space utilization, issue tracking
+8. Day Two: continuing/switching projects, "finishing" projects, reporting out
+9. After the unconf
+
+
+
