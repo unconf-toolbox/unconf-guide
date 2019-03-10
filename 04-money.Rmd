@@ -1,1 +1,6 @@
-# Funding and Unconf {#money}
+# Funding an Unconf {#money}
+
+
+
+- R Consortium RUGS
+- NSF https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=11701 (submit application at least 6 months ahead of time)

@@ -7,6 +7,8 @@ site: bookdown::bookdown_site
 
 # Preface {-}
 
+This guide came to be at the [Chicago R Unconference](https://chirunconf.github.io/), March 9-10, 2019. Many of the principles can be applied to any type of unconf, but our experience has been in attending [rOpenSci]() unconferences and in hosting our own unconferences, the [Chicago R Unconference](https://chirunconf.github.io/) and the [Uncoast Unconference](http://uuconf.rbind.io/). 
+
 <!--Hi, Sam here. Just writing an outline for now. --> 
 
 1. What is an unconf and why should you organize one? 

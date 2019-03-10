@@ -1,2 +1,7 @@
 # What is an "Unconf" and why should YOU organize one? {#wat}
 
+- What is the history of the "unconference"?  
+- What is the history of the rOpenSci unconferences? 
+- What can you expect at an unconf? 
+- What are the advantages of an unconf? 
+- Why should you organize an unconf? 

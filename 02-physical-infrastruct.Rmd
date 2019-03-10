@@ -1,1 +1,15 @@
 # Physical Infrastructure {#physical}
+
+- What physical infrastructure is necessary? 
+
+First things first, you need a space. The space should be the first thing you acquire, because without a space, you cannot have an unconf. This should be a space large enough for your conference, typically 30-50 people. There should be working space for all participants: chairs, table surface, whiteboard & dry erase markers, paper & pen. The location should also have strong WiFi that everyone can access. See Chapter \@ref(people) for more details about what your space should have. 
+
+Some ideas for spaces are: 
+
+- Large meeting rooms or classrooms at academic institutions 
+- Co-working spaces 
+- Meeting rooms that your employer can rent out or loan you for two to three days 
+
+Ideally, the space should be within walking distance of one or more hotels so that your participants can easily go to and fro. If your location is not near lodging, rent a van that can shuttle participant from the hotel to the venue, or consider asking participants to carpool between the venue and the hotel(s). 
+
+You should have the space secured at least 4-6 months ahead of time. 
