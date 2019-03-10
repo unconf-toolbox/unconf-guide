@@ -7,7 +7,12 @@ site: bookdown::bookdown_site
 
 # Preface {-}
 
-This guide came to be at the [Chicago R Unconference](https://chirunconf.github.io/), March 9-10, 2019. Many of the principles can be applied to any type of unconf, but our experience has been in attending [rOpenSci]() unconferences and in hosting our own unconferences, the [Chicago R Unconference](https://chirunconf.github.io/) and the [Uncoast Unconference](http://uuconf.rbind.io/). 
+This guide came to be at the [Chicago R Unconference](https://chirunconf.github.io/), March 9-10, 2019. Many of the principles can be applied to any type of unconf, but our experience has been in attending [rOpenSci]() unconferences and in hosting our own unconferences, the [Chicago R Unconference](https://chirunconf.github.io/) and the [Uncoast Unconference](http://uuconf.rbind.io/). These unconfs have been focused on developing tools for R, but you can substitute your favorite open source computing language as you wish. 
+
+```{r echo=FALSE, fig.align='center', out.width="50%"}
+knitr::include_graphics("https://media1.tenor.com/images/b5717371985cb73134112cef6168a2a3/tenor.gif?itemid=7893429")
+```
+
 
 <!--Hi, Sam here. Just writing an outline for now. --> 
 

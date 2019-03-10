@@ -1,1 +1,6 @@
 # Online Infrastructure {#online}
+
+- Website: "I ~~think~~ web therefore I am." This is the most important piece. 
+- Twitter account
+- Twitter hashtag
+- Github organization: one repo for the website, one repo for the conference to file issues, create repos 
