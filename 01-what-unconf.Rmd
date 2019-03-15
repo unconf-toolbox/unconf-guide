@@ -1,7 +1,36 @@
 # What is an "Unconf" and why should YOU organize one? {#wat}
 
-- What is the history of the "unconference"?  
-- What is the history of the rOpenSci unconferences? 
-- What can you expect at an unconf? 
-- What are the advantages of an unconf? 
-- Why should you organize an unconf? 
+## What is an "unconference"?  {-}
+
+An *unconference* is a very well-named event. The *unconf* takes the traditional highly structured conference format and turns it on its head. There are no expensive registration fees, formal abstract submissions, or time-limited talks. To quote one organizer of a large unconferece, "We invite a couple of hundred really interesting people for an event without a program, which emphasizes interaction between the participants rather than on prepared presentations" [@unconf1].
+
+According to @unconf1 and Andrea Wulf, the first "unconference" was held back in 1828 in Germany. It was put on by Alexander von Humboldt, the Prussian Polymath. For this 19th century event,  
+
+> "he invited hundreds of scientists [...] to attend a conference in Berlin. Unlike previous such meetings at which scientists had endlessly presented papers about their own work, Humboldt put together a very different programme. Rather than being talked at, he wanted the scientists to talk with each other. There were convivial meals and social outings [...]. Meetings were held among botanical, zoological and fossil collections as well as at the university and the botanical garden. Humboldt encouraged scientists to gather in small groups and across disciplines. He connected the visiting scientists on a more personal level, ensuring that they forged friendships that would foster close networks. He envisaged an interdisciplinary [coalition] of scientists who would exchange and share knowledge." 
+
+This old idea is new again in the 21st century tech industry. Large unconferences attract web developers, data scientists, and other tech-minded folks every. They often are similar to "hackathons" where developers and designers come together to create a functioning software product during a short period of time, usually only a few days. 
+
+## What is the history of the R unconf? {-}
+
+The mother of the [Chicago R Unconference](https://chirunconf.github.io/) and the [Uncoast Unconference](http://uuconf.rbind.io/) is the [rOpenSci](https://ropensci.org/) unconference, or #runconf. It began in [2014](https://github.com/ropensci/unconf14/wiki), and has been held every year since. It has also spurred the [OzUnconf](https://ozunconf18.ropensci.org/) event in Australia, first held in 2016. 
+
+At these events, attendees create new R packages, make Shiny Apps, write documentation (like this book!), and contribute to existing packages. Check out some of the previous projects below:
+
+- [#runconf18](https://github.com/ropensci/unconf18/issues)
+- [#ozunconf18](https://github.com/ropensci/ozunconf18/issues)
+- [#runconf17](https://github.com/ropensci/unconf17/issues)
+- [#runconf16](https://github.com/ropensci/unconf16/issues)
+- [#runconf15](https://github.com/ropensci/unconf15/issues)
+- [#runconf14](https://github.com/ropensci/unconf14/issues)
+
+```{block, type = "rmdcaution"}
+This guide is a work in progress! If you'd like to contribute to the list above, please submit a [pull request](https://github.com/unconf-toolbox/unconf-guide). 
+```
+
+
+
+## What can you expect at an unconf? {-}
+
+<!--## What are the advantages of an unconf? {-}--> 
+
+## Why should you organize an unconf? {-}

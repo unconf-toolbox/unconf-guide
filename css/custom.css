@@ -1,0 +1,9 @@
+.rmdcaution, .rmdimportant, .rmdnote, .rmdtip, .rmdwarning {
+  padding: 0em 0em 0em 4em;
+  margin-bottom: 5px;
+  background: #f5f5f5 5px center/3em no-repeat;
+}
+
+.rmdcaution {
+  background-image: url("../img/caution.png"); 
+}

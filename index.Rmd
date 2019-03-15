@@ -3,9 +3,20 @@ title: "How to Organize an R Unconference"
 author: "Angela Li, Sam Tyner"
 documentclass: "book"
 site: bookdown::bookdown_site
+css: ["css/custom.css", "css/default.css"]
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+colorlinks: yes
 ---
 
+
+
 # Preface {-}
+
+```{block, type = "rmdcaution"}
+This guide is a work in progress! We're very glad you're here but please proceed with caution. If you would like to contribute to this project, please submit a [pull request](https://github.com/unconf-toolbox/unconf-guide). 
+```
 
 This guide came to be at the [Chicago R Unconference](https://chirunconf.github.io/), March 9-10, 2019. Many of the principles can be applied to any type of unconf, but our experience has been in attending [rOpenSci]() unconferences and in hosting our own unconferences, the [Chicago R Unconference](https://chirunconf.github.io/) and the [Uncoast Unconference](http://uuconf.rbind.io/). These unconfs have been focused on developing tools for R, but you can substitute your favorite open source computing language as you wish. 
 
@@ -14,7 +25,9 @@ knitr::include_graphics("https://media1.tenor.com/images/b5717371985cb73134112ce
 ```
 
 
-<!--Hi, Sam here. Just writing an outline for now. --> 
+<!--Hi, Sam here. Just writing an outline for now.
+
+### Outline {-}
 
 1. What is an unconf and why should you organize one? 
 2. What **physical** infrastructure do you need to host an unconference?
@@ -25,6 +38,6 @@ knitr::include_graphics("https://media1.tenor.com/images/b5717371985cb73134112ce
 7. Day One: intros/icebreakers, projects, space utilization, issue tracking
 8. Day Two: continuing/switching projects, "finishing" projects, reporting out
 9. After the unconf
-
+-->
 
 
