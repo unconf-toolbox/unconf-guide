@@ -1,11 +1,15 @@
 # People have needs {#people}
 
+Code of Conduct: 
+
+A code of conduct is important to ensure that everyone at your event is safe and feels welcome. A sample code of conduct is posted in the Unconf Toolbox [here](https://unconf-toolbox.github.io/unconf-website/coc/).
 
 Space: 
 
 - Gender neutral bathrooms 
 - Quiet room for meditation, prayer, etc. 
 - Nursing moms room
+- Wheelchair accesibility 
 
 Food: 
 
