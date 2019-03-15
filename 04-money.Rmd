@@ -2,7 +2,11 @@
 
 After you have your physical space and your website, you need to start finding funding for the event. 
 
+### Possible Sponsors {-}
 
+Use your network! Reach out to current and past employers, ask professors if they know of programs at their university that can assist you, and contact local data science companies. 
+
+### Grant funding possibilities {-}
 
 - R Consortium [RUGS](https://www.r-consortium.org/projects/r-user-group-support-program) 
 - NSF [Conferences and Workshops in the Mathematical Sciences](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=11701) (submit application a minimum of siz months ahead of time)

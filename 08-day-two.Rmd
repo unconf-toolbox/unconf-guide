@@ -1,1 +1,13 @@
 # Unconf Day Two {#day2}
+
+This day is intended to be flexible project work time/social time. Do what feels right to you.
+
+### Sample Schedule {-}
+
+* **9:00am** Breakfast available 
+* **noon** Lunch available 
+* **12:30pm** (Optional if interest) Quick demos/lightning talks by mentors or participants (sign up at event!) 
+* **3:00-3:30pm** Wrap up projects 
+* **3:30pm-4:30pm** Report out on projects (show the README for your package or issues that have been closed), concluding remarks by organizers 
+* **5pm** Vacate space according to pre-arranged times with building security
+* **Evening** (Optional) Group dinner with folks leaving town the following morning.

@@ -1,1 +1,17 @@
 # All Things Applications {#apps}
+
+The unconfs we've put on have been "invitation-only." This sounds a lot more highbrow than it actually is. There is an application process, and you can tailor the questions to your own event. 
+
+The Unconf Toolbox has a Shiny app, powered by Dropbox, to host the application form for your unconf. Some of the application questions are: 
+
+- What is your occupation? 
+- What field(s) are you applying R to? 
+- What do you hope to accomplish and/or learn at this unconf? 
+
+You'll want to tailor the questions to your specific unconf. Some things to consider: 
+
+- How much R experience are you looking for? Can beginners enjoy your unconf, too?
+- How much other experience are you looking for? 
+- Are you in a specific application field? e.g. education, bioinformatics, etc. 
+
+Bottom line, it's all about the bottom line. An unconf shouldn't have a registration fee by definition, so an application is a necessary piece to keep costs controlled. Hopefully, the Unconf Toolbox can provide others with the framework for hosting an unconf so everyone who wants to will get the chance to attend one soon in their area! 

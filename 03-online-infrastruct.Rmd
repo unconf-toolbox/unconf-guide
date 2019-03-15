@@ -1,6 +1,20 @@
 # Online Infrastructure {#online}
 
-- Website: "I ~~think~~ web therefore I am." This is the most important piece. 
+> "I ~~think~~ web therefore I am."
+
+## Github Organization {-}
+
+Create a Github Organization for your unconf. The organization can host the repo for your website, a place to post project ideas before the event, a Wiki, and a repo for every project that is started at your unconf. 
+
+## Website {-}
+
+Having a websitve for your conference is the most important piece of your online infrastructure. It legitimizes your event, hosts your branding, and shows potential sponsors that you're serious and their money will be put to good use. 
+
+In the Unconf Toolbox, we have a [website skeleton](https://github.com/unconf-toolbox/unconf-website) that is under an open source license that you are welcome to use as an example. (You must include the license with it.) You can also branch out on your own and try out [`blogdown`](https://bookdown.org/yihui/blogdown/). This is what I (ST) did for the [Uncoast Unconf](https://github.com/rbind/uncoast-unconf) website, but this is one of those "do as I say, not as I do" moments, so proceed with caution!
+
+## Twitter {-}
+
+To create a Twitter account, you'll also need an email account. Consider creating a Gmail account specifically for the event. With this email account you can also send out mailings to your applicants and participants. Check out the [communication](https://github.com/unconf-toolbox/unconf-comm) repository in the Unconf Toolbox. You should also create a conference hashtag so that unconf attendees can easily share their work. 
+
 - Twitter account
 - Twitter hashtag
-- Github organization: one repo for the website, one repo for the conference to file issues, create repos 

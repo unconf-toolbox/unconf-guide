@@ -34,3 +34,6 @@ This guide is a work in progress! If you'd like to contribute to the list above,
 <!--## What are the advantages of an unconf? {-}--> 
 
 ## Why should you organize an unconf? {-}
+
+- You get to meet a lot of great people
+- You get to learn a lot of new things 

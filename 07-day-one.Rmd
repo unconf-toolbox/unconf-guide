@@ -1,29 +1,19 @@
 # Unconf Day One {#day1}
 
-## Sample Schedule
+## Sample Schedule {-}
 
-This is a tentative schedule (and we may not follow it exactly), but it will hopefully help you picture what we're planning to do at the unconf:
+Here is the schedule from the Chicago R Unconference, held Saturday & Sunday March 9-10, 2019. 
 
-# Friday, March 8 
-* **7:00pm-9:00pm** Informal get-together at [Jolly Pumpkin](https://www.google.com/maps/place/Jolly+Pumpkin+Pizzeria+and+Brewery/@41.8004309,-87.5911089,17z/data=!3m1!4b1!4m5!3m4!1s0x880e2971fc165e1b:0x1f4b0420409dad07!8m2!3d41.8004309!4d-87.5889202) for folks coming in to town Friday night 
+### The night before {-}
+* **7:00pm-9:00pm** Informal get-together at a pub near the conference venue for folks coming in to town the night before the unconf starts. 
 
-# Saturday, March 9
-* **9:00-9:30am** Arrive at [Center for Spatial Data Science](https://www.google.com/maps/place/The+University+of+Chicago+Searle+Chemistry+Laboratory/@41.7905664,-87.6009638,15z/data=!4m2!3m1!1s0x0:0xf5622949c11aac2b?ved=2ahUKEwjRxLv8qfHgAhWHyIMKHYUTBtUQ_BIwCnoECAUQCA) (5735 S Ellis Ave, go in the door that says "Searle Chemical Laboratory", one of us will be inside to greet you and help you find our space on the 2nd floor!), grab food/coffee, mingle, get settled 
-* **9:30-10:15am** Opening intros by organizers, overview of the day, icebreaker/participant intros 
+#### Day One {-}
+* **9:00-9:30am** Arrive at the venue, grab food/coffee, mingle, get settled 
+* **9:30-10:15am** Opening intros by organizers, overview of the day, icebreaker/participant intros
 * **10:15am-noon** Break up, move around, brainstorm ideas, join a project team 
 * **noon** Lunch arrives, mingle, socialize 
 * **12:30pm** (Optional) Quick demos/lightning talks (2 talks, 15 min each, on Git/package setup) by organizers 
 * **rest of day** Work on projects (and mingle, socialize)
 * **3:00pm** Afternoon break 
 * **5:00pm** Dinner arrives 
-* **6:00pm** (Optional) Walk over to [UChicago Pub](https://www.google.com/maps/place/The+Pub/@41.7880136,-87.5977227,17z/data=!3m1!4b1!4m5!3m4!1s0x880e2916e23e1e1d:0xf3292c99a4ddf976!8m2!3d41.7880136!4d-87.595534), vacate space 
-
-# Sunday, March 10
-This day is intended to be flexible project work time/social time. Do what feels right to you.
-
-* **9:00am** Breakfast available (try to arrive by 9:30am) 
-* **noon** Lunch available 
-* **12:30pm** (Optional if interest) Quick demos/lightning talks by mentors or participants (sign up at event!) 
-* **3:00-3:30pm** Wrap up projects 
-* **3:30pm-4:30pm** Report out on projects (show the README for your package or issues that have been closed), concluding remarks by organizers 
-* **5pm** Vacate space
+* **Evening**  Vacate space according to pre-arranged times with building security. (Optional) Move to a bar for drinks and socializing 
