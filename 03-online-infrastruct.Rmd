@@ -6,6 +6,8 @@
 
 Create a Github Organization for your unconf. The organization can host the repo for your website, a place to post project ideas before the event, a Wiki, and a repo for every project that is started at your unconf. 
 
+During your conference, you can use the [issues explorer](https://github.com/unconf-toolbox/unconfissues) from the Unconf Toolbox for your participants to easily explore possible projects and see when projects are closed. 
+
 ## Website {-}
 
 Having a websitve for your conference is the most important piece of your online infrastructure. It legitimizes your event, hosts your branding, and shows potential sponsors that you're serious and their money will be put to good use. 
