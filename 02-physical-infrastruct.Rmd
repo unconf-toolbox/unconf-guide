@@ -2,7 +2,7 @@
 
 This section is all about the physical space & time needed to host an unconf. 
 
-## Where is your unconf? 
+## Where is your unconf? {-}
 
 First things first, you need a space. The space should be the first thing you acquire, because without a space, you cannot have an unconf. This should be a space large enough for your conference, typically 30-50 people. There should be working space for all participants: chairs, table surface, whiteboard & dry erase markers, paper & pens. The location should also have strong WiFi that everyone can access and plenty of electrical outlets for charging laptops. See Chapter \@ref(people) for more details about what your space should have. 
 
@@ -18,7 +18,7 @@ When you check out the space, make sure that you know where the dumpsters are. Y
 
 You should have the space secured at least 4-6 months ahead of time. 
 
-## When is your unconf?
+## When is your unconf? {-}
 
 Date considerations: 
 
@@ -27,6 +27,6 @@ Date considerations:
 - Do your best to avoid major religious holidays. Consult the [interfaith calendar](http://www.interfaith-calendar.org). 
 - If you are hosting in the US or Canada on a weekend, avoid daylight savings time so that people aren't losing an hour of sleep! `r emo::ji("sleeping face")`
 
-## Where will people stay? 
+## Where will people stay? {-}
 
 Try to secure a block of rooms at a nearby hotel at least two months before your event. It's much easier to release a few rooms later on than it is to create new hotels rooms out of nothing! 

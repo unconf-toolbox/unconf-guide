@@ -1,0 +1,3 @@
+# Day Zero {#day0}
+
+Some unconfs, such as the OzUnconf and the Uncoast Unconf, hosted "day zero" events to prepare participants for the collaboration and development that will occur on days one and two. 

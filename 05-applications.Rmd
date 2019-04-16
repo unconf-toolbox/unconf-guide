@@ -1,17 +1,22 @@
 # All Things Applications {#apps}
 
-The unconfs we've put on have been "invitation-only." This sounds a lot more highbrow than it actually is. There is an application process, and you can tailor the questions to your own event. 
+The unconfs we have organized and attended have been "invitation-only." This sounds a lot more highbrow than it actually is. All it means is that there is an application process specifically tailored to your event. The application process should be in place for two important reasons which are absolutely necessary to the success of your unconf. First and foremost, it keeps costs down. Since there is no fee to attend the unconf, you have to keep the size of the event small so that you can feed all participants with your limited budget. Second, it ensures that everyone at your unconf really wants to be there and will be committed to making the process enjoyable and productive for everyone. You're trying to build community, and random folks walking in off the street just won't help with that. Finally, it keeps your event focused. If you're hosting an R-centered event, a bunch of exclusive Python users would distract from your mission. A lot of people will apply who just don't fit with your goal, and that's ok. You just need to make sure you are very clear in the mission of your event. 
 
-The Unconf Toolbox has a Shiny app, powered by Dropbox, to host the application form for your unconf. Some of the application questions are: 
+The Unconf Toolbox has a [Shiny app](https://github.com/unconf-toolbox/unconf-apps), powered by Dropbox, to host the application form for your unconf. Some of the application questions are: 
 
 - What is your occupation? 
 - What field(s) are you applying R to? 
 - What do you hope to accomplish and/or learn at this unconf? 
 
 You'll want to tailor the questions to your specific unconf. Some things to consider: 
-
-- How much R experience are you looking for? Can beginners enjoy your unconf, too?
-- How much other experience are you looking for? 
+- How much R/Python/other coding experience are you looking for? Can beginners enjoy your unconf, too?
+- How much other experience are you looking for? e.g. academics or industry?
 - Are you in a specific application field? e.g. education, bioinformatics, etc. 
 
-Bottom line, it's all about the bottom line. An unconf shouldn't have a registration fee by definition, so an application is a necessary piece to keep costs controlled. Hopefully, the Unconf Toolbox can provide others with the framework for hosting an unconf so everyone who wants to will get the chance to attend one soon in their area! 
+It's all about the bottom line. An unconf shouldn't have a registration fee by definition, so an application is a necessary piece to keep costs controlled and participants engaged Hopefully, the Unconf Toolbox can provide others with the framework for hosting an unconf so everyone who wants to will get the chance to attend one soon in their area! 
+
+## Timeline {-}
+
+You should open up applications to your event **four months** before the start date, and leave them open for about a month. Make sure that you have established an online presence already (website, Twitter, Github) so you have something to link to and a place to advertise. Consider advertising your event application to local businesses and  colleges & universities to recruit local talent. It is also best to have some confirmed sponsors at this point, but it is not required. You should definitely be in talks with possible sponsors at the very least so that you have some idea of how many people you are going to be able to have at the event. 
+
+Once the applications are closed (after being open for about a month), you will have to assemble your committee to evaluate them. You should determine your evaluation criteria ahead of time if you want to have an unbiased
