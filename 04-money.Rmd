@@ -4,9 +4,21 @@ After you have your physical space and your website, you need to start finding f
 
 ### Possible Sponsors {-}
 
-Use your network! Reach out to current and past employers, ask professors if they know of programs at their university that can assist you, and contact local data science companies. 
+Use your network! Reach out to current and past employers, ask professors if they know of programs at their university that can assist you, and contact local companies looking to recruit data science talent. 
+
+It is helpful to possible sponsors to have a prepared *prospectus* with various levels of funding that garner different types of advertisement at your event. For example, set a minimum amount of funding to get the company's logo on the website. For larger sponsors, they may be able to pay for a meal at the unconf, which would require you placing signage and making an announcement the company sponsored the meal. One particularly nice perk of sponsorship could be reserving a spot for an employee of the company to attend the event without having to apply. Other possible benefits include putting up signage in the venue, opening the event with a presentation where you thank the sponsors, and tweeting about the sponsors thanking them for their support. 
 
 ### Grant funding possibilities {-}
 
 - R Consortium [RUGS](https://www.r-consortium.org/projects/r-user-group-support-program) 
-- NSF [Conferences and Workshops in the Mathematical Sciences](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=11701) (submit application a minimum of siz months ahead of time)
+- NSF [Conferences and Workshops in the Mathematical Sciences](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=11701) (submit application a minimum of six months ahead of time)
+
+### Amounts {-}
+
+For an event of about 30-40 people, you'll need about $5,000 (in 2018 USD) to secure food for two days. You'll need more money to be able to do more things, such as: 
+
+- Funding travel and/or lodging for students. This takes a LOT of money. 
+- T-shirts 
+- Stickers 
+- Office supplies (paper, pens, whiteboards & markers, etc.)
+- Name Tags 

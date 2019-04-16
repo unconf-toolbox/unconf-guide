@@ -8,7 +8,7 @@ According to @unconf1 and Andrea Wulf, the first "unconference" was held back in
 
 > "he invited hundreds of scientists [...] to attend a conference in Berlin. Unlike previous such meetings at which scientists had endlessly presented papers about their own work, Humboldt put together a very different programme. Rather than being talked at, he wanted the scientists to talk with each other. There were convivial meals and social outings [...]. Meetings were held among botanical, zoological and fossil collections as well as at the university and the botanical garden. Humboldt encouraged scientists to gather in small groups and across disciplines. He connected the visiting scientists on a more personal level, ensuring that they forged friendships that would foster close networks. He envisaged an interdisciplinary [coalition] of scientists who would exchange and share knowledge." 
 
-This old idea is new again in the 21st century tech industry. Large unconferences attract web developers, data scientists, and other tech-minded folks every. They often are similar to "hackathons" where developers and designers come together to create a functioning software product during a short period of time, usually only a few days. 
+This old idea is new again in the 21st century tech industry. Large unconferences attract web developers, data scientists, and other tech-minded folks. They often are similar to "hackathons" where developers and designers come together to create a functioning software product during a short period of time, usually only a few days. 
 
 ## What is the history of the R unconf? {-}
 

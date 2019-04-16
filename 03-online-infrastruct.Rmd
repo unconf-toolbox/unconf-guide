@@ -1,6 +1,8 @@
 # Online Infrastructure {#online}
 
-> "I ~~think~~ web therefore I am."
+> "I ~~think~~ web therefore I am." - ~~Descartes~~ [Xie](https://slides.yihui.name/2012-stats-web.html#1.0)
+
+Your conference has to exist on the internet first before it can exist in reality! 
 
 ## Github Organization {-}
 
@@ -10,13 +12,10 @@ During your conference, you can use the [issues explorer](https://github.com/unc
 
 ## Website {-}
 
-Having a websitve for your conference is the most important piece of your online infrastructure. It legitimizes your event, hosts your branding, and shows potential sponsors that you're serious and their money will be put to good use. 
+Having a website for your conference is the most important piece of your online infrastructure. It legitimizes your event, hosts your branding, and shows potential sponsors that you're serious and that their money will be put to good use. 
 
 In the Unconf Toolbox, we have a [website skeleton](https://github.com/unconf-toolbox/unconf-website) that is under an open source license that you are welcome to use as an example. (You must include the license with it.) You can also branch out on your own and try out [`blogdown`](https://bookdown.org/yihui/blogdown/). This is what I (ST) did for the [Uncoast Unconf](https://github.com/rbind/uncoast-unconf) website, but this is one of those "do as I say, not as I do" moments, so proceed with caution!
 
 ## Twitter {-}
 
-To create a Twitter account, you'll also need an email account. Consider creating a Gmail account specifically for the event. With this email account you can also send out mailings to your applicants and participants. Check out the [communication](https://github.com/unconf-toolbox/unconf-comm) repository in the Unconf Toolbox. You should also create a conference hashtag so that unconf attendees can easily share their work. 
-
-- Twitter account
-- Twitter hashtag
+To create a Twitter account, you'll also need an email account. Consider creating a Gmail account specifically for the event. With this email account you can also send out mailings to your applicants and participants. Check out the [communication](https://github.com/unconf-toolbox/unconf-comm) repository in the Unconf Toolbox. You should also create a conference hashtag so that unconf attendees can easily share their work with each other and the community. 
