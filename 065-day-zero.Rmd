@@ -1,3 +1,10 @@
 # Day Zero {#day0}
 
 Some unconfs, such as the OzUnconf and the Uncoast Unconf, hosted "day zero" events to prepare participants for the collaboration and development that will occur on days one and two. 
+
+All of the materials for the Uncoast Unconf Day Zero are available on [Github](https://github.com/uncoast-unconf/uu-2019-day-zero). These materials cover the following topics: 
+
+1. Collaboration with Git & Github in R
+2. R Project Workflows
+3. Creating R packages 
+4. The Magic Tricks of HTML/CSS/JS
